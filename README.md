@@ -1,5 +1,5 @@
-GreenAI Skills
-📌 About the Project
+**GreenAI Skills**
+**About the Project**
 
 GreenAI Skills is a collection of machine learning projects focused on solving environmental and sustainability-related problems using data science techniques.
 
@@ -7,7 +7,7 @@ The main objective of this project is to demonstrate how Artificial Intelligence
 
 This repository showcases practical implementation of data preprocessing, visualization, model building, and evaluation using real datasets — following efficient and responsible AI practices.
 
-🚀 What This Project Covers
+**What This Project Covers**
 
 🌾 Crop Yield Prediction – Predict agricultural production based on environmental factors.
 
@@ -21,7 +21,7 @@ This repository showcases practical implementation of data preprocessing, visual
 
 📊 Data Visualization – Exploratory data analysis and trend visualization.
 
-🛠️ Technologies Used
+**Technologies Used**
 
 Python
 
@@ -35,7 +35,7 @@ Matplotlib / Seaborn
 
 Jupyter Notebook
 
-🧠 Skills Demonstrated
+**Skills Demonstrated**
 
 Data Cleaning & Preprocessing
 
@@ -47,12 +47,12 @@ Model Evaluation & Performance Metrics
 
 Environmental Data Interpretation
 
-📂 How to Run the Project
+**How to Run the Project**
 git clone https://github.com/4hiral/GreenAI-skills.git
 cd GreenAI-skills
 jupyter notebook
 
-🎯 Purpose
+**Purpose**
 
 This project was built to:
 
